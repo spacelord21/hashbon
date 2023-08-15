@@ -1,0 +1,38 @@
+.message {
+  padding: 12px 20px 12px 20px;
+  border-radius: 28px;
+  max-width: 88.3%;
+  min-height: 52px;
+  display: flex;
+  align-items: center;
+}
+
+.text {
+  font-family: 'SF Pro Text', sans-serif;
+}
+
+.sent {
+  background-color: #007AFE;
+  align-self: flex-end;
+}
+
+.received {
+  background-color:#2276F533;
+  margin-right: auto;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  width: 58%;
+  margin: 19px 17px;
+}
+
+.sentContainer {
+  margin-left: auto;
+  flex-direction: row-reverse;
+}
+
+.receivedContainer {
+  margin-right: auto;
+}

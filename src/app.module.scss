@@ -1,0 +1,16 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: rgb(113,115,215);
+background: linear-gradient(90deg, rgba(113,115,215,1) 0%, rgba(80,73,215,1) 30%, rgba(72,63,209,1) 72%, rgba(76,73,189,1) 100%);
+}
+
+.chat {
+  background-color: #FFFFFF;
+  width: 781px;
+  height: 623px;
+  border-radius: 16px;
+}
